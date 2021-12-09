@@ -1,0 +1,8 @@
+{
+    "news_api_key": "bbe8385d1b8a4617b2bdaa3b415dfd4b",
+    "news_update_interval": 13,
+    "city": "exeter",
+    "nation": "england",
+    "host": "0.0.0.0",
+    "port": 3000
+}
